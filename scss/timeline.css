@@ -118,7 +118,7 @@ body {
 }
 
 .timeline-item--active:before {
-  top: 50%;
+  top: 40%;
   -webkit-transition: .3s all .2s;
   transition: .3s all .2s;
   opacity: 1;
